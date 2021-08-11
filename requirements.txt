@@ -2,3 +2,4 @@ cegpy
 datetime
 pandas
 pathlib
+openpyxl
