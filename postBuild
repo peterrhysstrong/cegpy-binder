@@ -1,1 +1,0 @@
-wget -q -O medical_dm_modified.xlsx https://github.com/g-walley/cegpy/blob/main/data/medical_dm_modified.xlsx --compression=none
