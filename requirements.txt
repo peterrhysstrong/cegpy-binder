@@ -3,3 +3,4 @@ datetime
 pandas
 pathlib
 openpyxl
+xlrd
