@@ -2,4 +2,3 @@ cegpy
 datetime
 pandas
 graphviz
-openpyxl
